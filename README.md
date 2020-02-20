@@ -1,2 +1,2 @@
 # Alexey
-Kyrsovaya rabota
+Курсовая работа
